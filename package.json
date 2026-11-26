@@ -1,0 +1,18 @@
+{
+  "name": "actp-playwright-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright tests cho https://actp1.csc.edu.vn (ACTP Clothes Shop)",
+  "scripts": {
+    "test": "playwright test",
+    "test:account": "playwright test tests/account.spec.ts",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report",
+    "update-report": "node scripts/update-report.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^20.0.0",
+    "jszip": "^3.10.1"
+  }
+}
