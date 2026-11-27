@@ -15,8 +15,9 @@
       "node"
     ]
   },
-  "include": [
+  "include": ["global-setup.ts", "account.ts", 
     "tests/**/*.ts",
+    "reporters/**/*.ts",
     "playwright.config.ts"
   ]
 }

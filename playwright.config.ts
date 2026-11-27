@@ -1,15 +1,18 @@
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
+  globalSetup: './global-setup.ts',
   testDir: './tests',
   timeout: 90_000,
-  expect: { timeout: 10_000 },
+  expect: { timeout: 5_000 },
   fullyParallel: false,
-  workers: 2,               
+  workers: 1,               
   retries: 0,
-  reporter: [['list'], ['json', { outputFile: 'results.json' }], ['html', { open: 'never' }]],
+  reporter: [['./reporters/terminal-reporter.ts'], ['json', { outputFile: 'results.json' }], ['html', { open: 'never' }]],
   use: {
     baseURL: 'https://actp1.csc.edu.vn',
+    actionTimeout: 15_000,       
+    navigationTimeout: 30_000,
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     video: 'off',

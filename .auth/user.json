@@ -1,0 +1,115 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_sec_663ea46c60375df3b6bcf84bc5aa6968",
+      "value": "nguyenvantest%7C1795942422%7Cd0FJr6ol0XghTMPLdqqDPCX29HQy2IaKgXxKz2BHYW1%7Cad2769bbf2a3ffee1eabc5db62584e395ff845470de22a40ecbbaff162dd685a",
+      "domain": "actp1.csc.edu.vn",
+      "path": "/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_sec_663ea46c60375df3b6bcf84bc5aa6968",
+      "value": "nguyenvantest%7C1795942422%7Cd0FJr6ol0XghTMPLdqqDPCX29HQy2IaKgXxKz2BHYW1%7Cad2769bbf2a3ffee1eabc5db62584e395ff845470de22a40ecbbaff162dd685a",
+      "domain": "actp1.csc.edu.vn",
+      "path": "/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_migrations",
+      "value": "1418474375998%3D1",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_current_add",
+      "value": "fd%3D2026-11-27%2008%3A53%3A41%7C%7C%7Cep%3Dhttps%3A%2F%2Factp1.csc.edu.vn%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_first_add",
+      "value": "fd%3D2026-11-27%2008%3A53%3A41%7C%7C%7Cep%3Dhttps%3A%2F%2Factp1.csc.edu.vn%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_current",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_first",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_udata",
+      "value": "vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome%2F158.0.8127.18%20Safari%2F537.36",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_logged_in_663ea46c60375df3b6bcf84bc5aa6968",
+      "value": "nguyenvantest%7C1795942422%7Cd0FJr6ol0XghTMPLdqqDPCX29HQy2IaKgXxKz2BHYW1%7Cc9e6c9a437447850aac553130feb3d9b0d9388ba4f4644f921d805ea98c82746",
+      "domain": "actp1.csc.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_session",
+      "value": "pgs%3D2%7C%7C%7Ccpg%3Dhttps%3A%2F%2Factp1.csc.edu.vn%2Fmy-account%2F",
+      "domain": ".actp1.csc.edu.vn",
+      "path": "/",
+      "expires": 1795771424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://actp1.csc.edu.vn",
+      "localStorage": [
+        {
+          "name": "wc_cart_hash_d4369a4c9cf950a17e7a9b872c2c4099",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
